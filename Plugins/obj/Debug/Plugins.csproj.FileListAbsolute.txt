@@ -1,0 +1,5 @@
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Plugins.dll
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\Plugins.pdb
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Plugins\obj\Debug\Plugins.dll
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Plugins\obj\Debug\Plugins.pdb

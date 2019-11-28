@@ -1,0 +1,4 @@
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Common\bin\Debug\Common.dll
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Common\bin\Debug\Common.pdb
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Common\obj\Debug\Common.dll
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\Common\obj\Debug\Common.pdb

@@ -1,0 +1,17 @@
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe.config
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+C:\Users\90030147\Desktop\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.Cache
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\bin\Debug\GalaxyCinemas.exe.config
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csprojResolveAssemblyReference.cache
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.BookingForm.resources
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ExportDataForm.resources
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportDataForm.resources
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.ImportResultsPopup.resources
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.MainForm.resources
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.Properties.Resources.resources
+W:\CPP Stuff\VS1\VS1\vp1_work\Project\Galaxy Cinemas\GalaxyCinemas\obj\x86\Debug\GalaxyCinemas.csproj.GenerateResource.Cache
